@@ -1,5 +1,5 @@
 # libsocketpp
-Biblioteca C++ de abstração da API de socket do C
+Biblioteca C++ de abstração da API de socket do C (libsocket++)
 
 Biblioteca que abstrai a API de socket do C para o C++.
 
