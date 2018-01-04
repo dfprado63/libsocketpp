@@ -1,0 +1,3 @@
+#examples/chat_once
+
+Chat exemplo, faz uso da libsocket++ para criar um chat intercalado (servidor e cliente falam em turnos - um de cada vez).
